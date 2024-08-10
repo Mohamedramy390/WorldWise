@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "e5fe",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-05T14:32:56.316Z",
+      "notes": "",
+      "position": {
+        "lat": "40.021853524783076",
+        "lng": "-0.01840060278702094"
+      }
+    },
+    {
+      "id": "95ac",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-08T18:20:27.697Z",
+      "notes": "",
+      "position": {
+        "lat": "40.393546635604956",
+        "lng": "-3.7133789062500004"
+      }
+    },
+    {
+      "id": "4cb7",
+      "cityName": "Alexandria",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-08-09T11:28:06.133Z",
+      "notes": "",
+      "position": {
+        "lat": "31.19298229376863",
+        "lng": "29.893798828125004"
+      }
+    }
+  ]
+}
